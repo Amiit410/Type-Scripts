@@ -1,0 +1,12 @@
+"use strict";
+var arr1 = [10, 20, "Amit"];
+console.log(arr1);
+var arr2 = new Array(10, 20, 30);
+console.log(arr2);
+var arr3 = [10, 20, 30];
+console.log(arr3);
+var arr4 = ["amit", "Ankita", "Priti"];
+console.log(arr4);
+var arr5 = [10, "amit", "male"];
+console.log(arr5);
+var arr6;
